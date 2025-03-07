@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Devoir</string>
+    <string name="text1">Formulaire</string>
+    <string name="textNom"><![CDATA[Nom && Prénom\n]]></string>
+    <string name="textEmail">Email</string>
+    <string name="textNum">Phone</string>
+    <string name="textAdr">Adresse</string>
+    <string name="hintNom">Votre nom et prénom</string>
+    <string name="hintMail">Votre email</string>
+    <string name="hintNum">Votre numéro</string>
+    <string name="hintAdr">Votre adresse</string>
+    <string name="vtextVille">Ville</string>
+    <string name="btnText">Envoyer</string>
+    <string name="screen2">Informations</string>
+    <string name="mon_logo">Mon logo</string>
+    <string name="homme">Homme</string>
+    <string name="femme">Femme</string>
+    <string name="hello_user">Hello Radouane !</string>
+</resources>
